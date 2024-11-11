@@ -1,1 +1,2 @@
 # sql_server_data_analyst
+<b> Description</b>: As a Data Analyst, I analyzed cosmetic product sales and customer reviews using SQL. I retrieved the Top 20 products by total sales for specific months and locations, and calculated total reviews, highest ratings, and average ratings for each product. I also identified products with no sales, along with their average rating and total sales, and analyzed products with no sales in the last 6 months. Additionally, I highlighted the highest total sales per store, providing actionable insights for inventory and sales optimization.
